@@ -1,8 +1,11 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Nhan Nguyen. I am a master student at University of Science - VNHCM. I am interested in the following topics: Deep Learning for ... (vd Deep Learning for Computer Vision, LLM, Reinforcement Learning).<br>
+
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) https://www.linkedin.com/in/ntn0801/ [![GitHub](https://i.stack.imgur.com/tskMh.png) X 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ntn0801/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ssssws/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 
 
 
